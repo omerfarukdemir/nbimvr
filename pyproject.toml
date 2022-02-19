@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "nbimvr"
+version = "0.1.0"
+description = ""
+authors = ["Omer Faruk Demir <omerfarukde@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+httpx = "0.22.0"
+lru-dict = "1.1.7"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
