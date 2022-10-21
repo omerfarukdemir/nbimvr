@@ -1,3 +1,5 @@
+Norges Bank Investment Management Voting Records Api Client
+
 #### Requirements
 - ```anaconda```/```miniconda```
 #### Create environment
@@ -10,3 +12,5 @@
 - ```conda deactivate```
 #### Remove environment
 - ```conda env remove -n nbimvr```
+#### Apply for API key
+- https://www.nbim.no/en/the-fund/responsible-investment/our-voting-records/api-access-to-our-voting/
